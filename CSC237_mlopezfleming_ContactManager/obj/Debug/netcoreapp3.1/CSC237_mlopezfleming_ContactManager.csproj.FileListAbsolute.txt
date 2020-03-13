@@ -1,0 +1,134 @@
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\appsettings.json
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\libman.json
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.exe
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.deps.json
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.runtimeconfig.json
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.runtimeconfig.dev.json
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.pdb
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.Views.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.Views.pdb
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.csprojAssemblyReference.cache
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\staticwebassets\CSC237_mlopezfleming_ContactManager.StaticWebAssets.Manifest.cache
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\staticwebassets\CSC237_mlopezfleming_ContactManager.StaticWebAssets.xml
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.RazorAssemblyInfo.cache
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.RazorAssemblyInfo.cs
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.AssemblyInfoInputs.cache
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.AssemblyInfo.cs
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.TagHelpers.input.cache
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.TagHelpers.output.cache
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.RazorCoreGenerate.cache
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.RazorTargetAssemblyInfo.cache
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.RazorTargetAssemblyInfo.cs
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.Views.pdb
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.pdb
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.csproj.CopyComplete
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Edit.cshtml.g.cs
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.MvcApplicationPartsAssemblyInfo.cache
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Details.cshtml.g.cs
+Z:\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Delete.cshtml.g.cs
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.pdb
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.exe
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.deps.json
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.runtimeconfig.json
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.runtimeconfig.dev.json
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.pdb
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.Views.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.Views.pdb
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\staticwebassets\CSC237_mlopezfleming_ContactManager.StaticWebAssets.Manifest.cache
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\staticwebassets\CSC237_mlopezfleming_ContactManager.StaticWebAssets.xml
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.RazorAssemblyInfo.cache
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.RazorAssemblyInfo.cs
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.AssemblyInfo.cs
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.TagHelpers.input.cache
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.TagHelpers.output.cache
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.RazorCoreGenerate.cache
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Delete.cshtml.g.cs
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Details.cshtml.g.cs
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Edit.cshtml.g.cs
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.RazorTargetAssemblyInfo.cache
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.RazorTargetAssemblyInfo.cs
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.Views.pdb
+C:\Users\marco\Desktop\Advanced C#\CSC237_mlopezfleming_ContactManager\CSC237_mlopezfleming_ContactManager\obj\Debug\netcoreapp3.1\CSC237_mlopezfleming_ContactManager.csproj.CopyComplete
